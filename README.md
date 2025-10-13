@@ -9,6 +9,7 @@
 <div align="center">
  
  👨🏻‍💻 I’m currently working as a **Technical Engineer (Automation)**
+ 
  🙋🏻‍♂️ I’m currently learning **Software Engineering Fundamentals**
  
  🌟 Some favorite projects: **HealthLens**, **ParkiPilot**, **BlinkGPT**
