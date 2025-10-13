@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Rifat+C!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Rifat+Arman+Chowdhury!;" />
 </h1>
 
-<h3 align="center">CS Graduate & Technical Engineer (Automation) from Bangladesh 🇧🇩</h3>
+<h3 align="center">Aspiring Software Engineer from Bangladesh</h3>
 
 <br/>
 
@@ -28,11 +28,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>My Contributions ✅</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RifatC2002/RifatC2002/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
 
 <hr/>
 <h2 align="center">My Stats 📊</h2>
