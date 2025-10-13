@@ -12,7 +12,7 @@
  
  🙋🏻‍♂️ I’m currently learning **Software Engineering Fundamentals**
  
- 🌟 Some favorite projects: **HealthLens**, **ParkiPilot**, **BlinkGPT**
+ 🌟 Some favorite projects: **FinAid**, **HealthLens**, **ParkiPilot**, **BlinkGPT**
  
  ⚽ Football fan 
  🎵 music enthusiast
