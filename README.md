@@ -44,13 +44,34 @@
 
 <hr/>
 <h2 align="center">My Stats 📊</h2>
-<br>
-<div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=RifatC2002&theme=react&hide_border=true" alt=""/>
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatC2002&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
-</div>
-<br/>
+
+<p align="center">
+  <a href="https://github.com/RifatC2002">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
+      alt="GitHub stats for RifatC2002"
+    />
+  </a>
+  <a href="https://github.com/RifatC2002">
+    <img
+      height="180em"
+      src="https://streak-stats.demolab.com?user=RifatC2002&theme=react&hide_border=true"
+      alt="GitHub contribution streak for RifatC2002"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RifatC2002">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatC2002&theme=react&hide_border=true&layout=donut&langs_count=8"
+      alt="Top languages for RifatC2002"
+    />
+  </a>
+</p>
+
 
 ---
 
