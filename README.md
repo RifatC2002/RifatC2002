@@ -43,14 +43,14 @@
 
 
 <hr/>
-<!-- <h2 align="center">My Stats 📊</h2>
+<h2 align="center">My Stats 📊</h2>
 <br>
 <div align=center>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=RifatC2002&theme=react&hide_border=true" alt=""/>
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatC2002&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
 </div>
-<br/> -->
+<br/>
 
 ---
 
