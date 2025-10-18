@@ -49,7 +49,8 @@
   <a href="https://github.com/RifatC2002">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
+      src="[https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=RifatC2002&theme=react&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=7200
+)"
       alt="GitHub stats for RifatC2002"
     />
   </a>
