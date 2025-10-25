@@ -67,11 +67,11 @@
     />
   </a>
   <a href="https://github.com/RifatC2002">
-    <img
+    <!-- <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatC2002&theme=react&hide_border=true&layout=donut&langs_count=5&hide=Jupyter%20Notebook"
       alt="Top languages for RifatC2002"
-    />
+    /> -->
 
   </a>
 </p>
