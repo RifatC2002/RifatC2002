@@ -69,9 +69,10 @@
   <a href="https://github.com/RifatC2002">
     <img
       height="180em"
-      src="https://streak-stats.demolab.com?user=RifatC2002&theme=react&hide_border=true"
-      alt="GitHub contribution streak for RifatC2002"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatC2002&theme=react&hide_border=true&layout=donut&langs_count=8&hide=shell,powershell,batch"
+      alt="Top languages for RifatC2002"
     />
+
   </a>
 </p>
 
